@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "336871b8ea68ae2134f6b588",
+  "owner": "cracnqq",
+  "repo": "page-2685a85e367563b96377ed70",
+  "title": "云图小镇",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2685a85e367563b96377ed70",
+      "a": "云图小镇",
+      "b": "最新6折优惠码",
+      "entity": "云图小镇",
+      "brand": "云图小镇",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "95cc69b468261e160c0c184a889515e4ffdd5f3921138cd6b4da01db9cf23c6f",
+      "content": {
+        "primary_entity": "云图小镇",
+        "keyword1": "云图小镇",
+        "keyword2": "最新6折优惠码",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，Windows 用 Clash Verge，macOS 用 ClashX Pro，iOS 用 Shadowrocket，Android 用 Clash Meta，路由器可用 OpenWrt 插件。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量挑选适合的版本，再按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对版本，连上云图小镇",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月付与年付可选，覆盖 3 至 20 台设备同时在线，流量从每月 100GB 到 1000GB，适合个人、家庭与小型团队按需选择。",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和订阅周期三个角度对比云图小镇套餐。",
+          "AI_FEATURES_TITLE": "按需选择云图小镇套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，按常用设备数选版本，避免多设备同时登录受限。",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 或 1000GB 流量分档，日常浏览选基础版，追剧与游戏选旗舰版，多人共享选团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用按年订阅更划算。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "月流量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到连上节点的配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "云图小镇提供基础版、旗舰版和团队版三档加速订阅，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，支持月付与年付，按个人或团队需求挑选合适版本。",
+          "AI_HERO_SUBTITLE": "按流量与设备数选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "月付年付灵活切换",
+          "AI_HIGHLIGHT_3": "多设备同时在线可选",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，适合 3 台设备与每月 100GB 流量；旗舰版 ¥35/月或 ¥350/年，5 台设备与每月 300GB 流量；团队版 ¥85/月或 ¥850/年，20 台设备与每月 1000GB 流量。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按常用设备数量和每月流量需求，从基础版、旗舰版、团队版中选出适合的一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与系统类型，查看对应客户端是否满足使用环境。",
+          "AI_STEP_TEXT_3": "参考所选客户端的使用文档导入订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看设备适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "云图小镇套餐一览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "云图小镇基础版支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合个人手机与电脑日常使用。如果家里设备较多，可考虑旗舰版的 5 台设备额度。",
+          "AI_FAQ_QUESTION_2": "旗舰版和团队版在流量上有什么区别？",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB 极速流量，团队版每月 1000GB，后者还含 VIP 专属高带宽节点和企业定制路由，适合团队共享或高用量场景。",
+          "AI_FAQ_QUESTION_3": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15，年付 ¥150/年，相当于十个月费用；旗舰版年付 ¥350/年，团队版年付 ¥850/年，均比按月支付划算。",
+          "AI_FAQ_QUESTION_4": "订阅可以跨设备使用吗？",
+          "AI_FAQ_ANSWER_4": "订阅按在线设备数量计算，同一账号可在额度内的多台设备上使用。超出设备数限制时，新设备可能无法同时连接，建议按需选择版本。",
+          "AI_FAQ_QUESTION_5": "如何把订阅导入到客户端？",
+          "AI_FAQ_ANSWER_5": "先在设备上安装对应客户端，再按客户端文档中的指引复制订阅链接或扫码导入，保存后即可在节点列表中选择线路连接。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e7b5f4f2de485b7114cff02042e463ab470cb260d16be08a348759c6dd2b45ef",
+    "sitemap.xml": "519df83e4f9d4d6da2476fed978930ca562f2fd6e15371655501ac1bdb15e1d7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "55ba47e2cda829b2bed4be04e550c01da16f9fcc7257c6b87860f106a3a10920"
+}
